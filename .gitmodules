@@ -1,0 +1,9 @@
+[submodule "yggdrasil"]
+	path = yggdrasil
+	url = git@github.com:Interactions-HSG/yggdrasil.git
+[submodule "intelliot-hypermas-explorer"]
+	path = intelliot-hypermas-explorer
+	url = git@github.com:Interactions-HSG/intelliot-hypermas-explorer.git
+[submodule "goal-interface"]
+	path = goal-interface
+	url = git@github.com:Interactions-HSG/goal-interface.git
